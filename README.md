@@ -5,8 +5,8 @@ This repository contains all Advanced Programming Lab exercises.
 ## Lab Exercise 1
 
 **Name:** Mayur Kushwah  
-**Roll Number:** YOUR_ROLL_NUMBER  
-**Email:** YOUR_JUET_EMAIL@juetguna.in
+**Roll Number:** 241B623  
+**Email:** 241b623@juetguna.in
 
 ### Problem
 
