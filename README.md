@@ -13,5 +13,5 @@ Each lab exercise is organized in a separate folder.
 ## Student Information
 
 **Name:** Mayur Kushwah  
-**Roll Number:** YOUR_ROLL_NUMBER  
-**Email:** YOUR_JUET_EMAIL@juetguna.in
+**Roll Number:** 241b623  
+**Email:** 241b623@juetguna.in
