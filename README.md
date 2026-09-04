@@ -8,8 +8,6 @@ This repository contains all lab exercises for the Advanced Programming Lab.
 - Lab Exercise 2
 - Lab Exercise 3
 
-Each lab exercise is organized in a separate folder.
-
 ## Student Information
 
 **Name:** Mayur Kushwah  
